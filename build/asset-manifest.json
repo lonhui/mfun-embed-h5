@@ -1,0 +1,17 @@
+{
+  "main.css": "./static/css/main.c8b6de11.chunk.css",
+  "main.js": "./static/js/main.bddf402a.chunk.js",
+  "main.js.map": "./static/js/main.bddf402a.chunk.js.map",
+  "static/css/1.5138faab.chunk.css": "./static/css/1.5138faab.chunk.css",
+  "static/js/1.427da9cf.chunk.js": "./static/js/1.427da9cf.chunk.js",
+  "static/js/1.427da9cf.chunk.js.map": "./static/js/1.427da9cf.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/css/main.c8b6de11.chunk.css.map": "./static/css/main.c8b6de11.chunk.css.map",
+  "static/media/Invite.css": "./static/media/header_bg@2x.9ee8d2dc.png",
+  "static/media/img-input box@2x.png": "./static/media/img-input box@2x.1fcb3b94.png",
+  "static/css/1.5138faab.chunk.css.map": "./static/css/1.5138faab.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.f67641ce7095bf929b741a3dbdacf334.js": "./precache-manifest.f67641ce7095bf929b741a3dbdacf334.js",
+  "service-worker.js": "./service-worker.js"
+}
